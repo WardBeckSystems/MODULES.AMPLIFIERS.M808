@@ -11,6 +11,20 @@ Wiki page: [M808](../../../../PAGES/M808.md)
 - **Size:** 1,183,767 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 279 mm, 2000 × 1294 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 0–279 mm up
+- **Outlines:** line 266 rings, 4,764 straight (10,588 mm) / 523 curved (807 mm); text 679 rings, 4,248 straight (4,427 mm) / 1,340 curved (1,873 mm); tb 49 rings, 409 straight (592 mm) / 67 curved (86.2 mm)
+- **Centre lines:** 4,972 paths (79 closed); straight 8,833 mm, curved 235 mm; horizontal 3,809 mm, vertical 2,189 mm, diagonal 2,835 mm
+- **Circles and arcs:** 18 circles, 25 arcs; largest r 1.6 @ (70.9, 238.5), r 1.6 @ (31.3, 155.5), r 1.6 @ (45.5, 228.8), r 1.5 @ (45.3, 238.7)
+- **Closed boxes:** 39 (27 in the title block); named: WBS SYSTEMS WARD-BECK LTD; M 808 SwitchER 8 Xi RELAY MODLLE ScHEMAT; FINISH; TOLS_ ANG; 808 - 02 - 00|; ISS_
+- **Words (OCR):** 80 in 52 lines: FOR COMPONENT Layout · SEE DWG N? B 2-/03-06-0 01 · 2. UNLE S$ · OTHERWISE SPECIFIED ALL · RESISToRS · VAW: TOL S.t 5 VALUES IN · ARE · RIB · capacitor VALUES iN · MIcRoFARADS (uF) · R /6 · RESISTORS 3to 18 NORMALLY Iok OR I5k _
+- **Title block:** (146, 10)–(411, 61) mm: DSS MOD  CKD_ · USED ON · MATL · 137 · WBS WARD-BECK · SYSTEMS LTD · Le · 577 · DRN: · DATE · M 808 · FINISH · SwitchER · CKD · 8 Xi RELAY · SCALE · MODLLE ScHEMATIC · ISS_
+- **Wiring (first pass):** 50 connected wire groups from 190 runs; labelled ends: 156 mm → CRZIICR22}, CR 2 6, CR 23; 122 mm → R /6, RIB; 114 mm → CRZAICR 2,5, K 8, CRZIICR22}; 73 mm → CRZAICR 2,5; 58 mm → 2 4 6 8, BoTTOm VIE W
+
+Every curve, box, word and wire group: [1994 - M808 - RELAY SWITCHER MOPLLE SCHEMATIC (traced).json](../SCHEMATICS/1994%20-%20M808%20-%20RELAY%20SWITCHER%20MOPLLE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1994 - M808 - RELAY SWITCHER MOPLLE SCHEMATIC (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

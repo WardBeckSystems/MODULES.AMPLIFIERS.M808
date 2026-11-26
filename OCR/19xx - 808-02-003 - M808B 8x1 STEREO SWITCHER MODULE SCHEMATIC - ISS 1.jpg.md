@@ -33,7 +33,7 @@ Card cage wiring diagram with left and right audio cards, title block at bottom 
 - **Words (OCR):** 14 in 13 lines: KVCIC · Richt · M808 CARD (LEFT) · M8o8 CARD (RICHT) · 4uc ^ · RichT · VFT Muob CaRD · cako · CANCEL · SPARATC · PoKEF DISTRIEUTCN · BECK SYSTEMS
 - **Wiring (first pass):** 30 connected wire groups from 472 runs, 2 dotted junctions; labelled ends: 517 mm → cako; 418 mm → VFT Muob CaRD; 101 mm → CANCEL; 50 mm → BECK SYSTEMS; 40 mm → Richt
 
-Every curve, box, word and wire group: [19xx - 808-02-003 - M808B 8x1 STEREO SWITCHER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20808-02-003%20-%20M808B%208x1%20STEREO%20SWITCHER%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 808-02-003 - M808B 8x1 STEREO SWITCHER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 808-02-003 - M808B 8x1 STEREO SWITCHER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20808-02-003%20-%20M808B%208x1%20STEREO%20SWITCHER%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 808-02-003 - M808B 8x1 STEREO SWITCHER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

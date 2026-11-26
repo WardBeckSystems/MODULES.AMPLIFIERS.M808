@@ -36,7 +36,7 @@ Upside-down photo of the M808A 8x1 relay switcher card schematic title block. Ti
 - **Title block:** (24, 90)–(389, 251) mm
 - **Wiring (first pass):** 57 connected wire groups from 491 runs
 
-Every curve, box, word and wire group: [1978 - 808-02-002 - 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (5) (traced).json](../SCHEMATICS/1978%20-%20808-02-002%20-%208x1%20RELAY%20SWITCHER%20CARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20(5)%20(traced).json) (the CAD file: `1978 - 808-02-002 - 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (5) (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 808-02-002 - 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (5) (traced).json](../SCHEMATICS/1978%20-%20808-02-002%20-%208x1%20RELAY%20SWITCHER%20CARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20%285%29%20%28traced%29.json) (the CAD file: `1978 - 808-02-002 - 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (5) (traced).dxf`).
 
 ## Full text
 

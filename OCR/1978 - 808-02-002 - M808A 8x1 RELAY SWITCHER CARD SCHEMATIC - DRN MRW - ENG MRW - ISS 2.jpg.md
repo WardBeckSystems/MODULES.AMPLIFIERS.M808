@@ -35,7 +35,7 @@ Upside-down photo of the title block of the M808A 8x1 relay switcher card schema
 - **Closed boxes:** 11
 - **Wiring (first pass):** 19 connected wire groups from 256 runs
 
-Every curve, box, word and wire group: [1978 - 808-02-002 - M808A 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).json](../SCHEMATICS/1978%20-%20808-02-002%20-%20M808A%208x1%20RELAY%20SWITCHER%20CARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20(traced).json) (the CAD file: `1978 - 808-02-002 - M808A 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 808-02-002 - M808A 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).json](../SCHEMATICS/1978%20-%20808-02-002%20-%20M808A%208x1%20RELAY%20SWITCHER%20CARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1978 - 808-02-002 - M808A 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (traced).dxf`).
 
 ## Full text
 

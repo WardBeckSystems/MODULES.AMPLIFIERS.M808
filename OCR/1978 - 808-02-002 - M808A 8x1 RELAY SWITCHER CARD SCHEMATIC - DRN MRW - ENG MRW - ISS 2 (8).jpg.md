@@ -35,7 +35,7 @@ Wiki page: [M808](../../../../PAGES/M808.md)
 - **Title block:** (357, 22)–(432, 33) mm: REVE ON · WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 56 connected wire groups from 398 runs; labelled ends: 473 mm → #@v CTL, Output; 457 mm → #@v CTL; 57 mm → WBS, Bx | RELAY SWITCHER; 54 mm → WBS, WARD-BECK SYSTEMS; 48 mm → WBS, WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1978 - 808-02-002 - M808A 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (8) (traced).json](../SCHEMATICS/1978%20-%20808-02-002%20-%20M808A%208x1%20RELAY%20SWITCHER%20CARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20(8)%20(traced).json) (the CAD file: `1978 - 808-02-002 - M808A 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (8) (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 808-02-002 - M808A 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (8) (traced).json](../SCHEMATICS/1978%20-%20808-02-002%20-%20M808A%208x1%20RELAY%20SWITCHER%20CARD%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20%288%29%20%28traced%29.json) (the CAD file: `1978 - 808-02-002 - M808A 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (8) (traced).dxf`).
 
 ## Full text
 
