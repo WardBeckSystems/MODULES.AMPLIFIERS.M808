@@ -1,0 +1,115 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M808/SCHEMATICS/19xx - 808-02-003 - M808B 8x1 STEREO SWITCHER MODULE SCHEMATIC - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/cbebe4fbe12b5dc5.svg",
+ "sheet": {
+  "number": "LB 808-02-003",
+  "title": "M808B / 8x1 STEREO SWITCHER / MODULE SCHEMATIC",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 648],
+  "mm": [431.8, 139.9],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 14.2, 416.7, 137.1],
+ "outlines": {
+  "line": {"rings": 464, "straight": {"n": 3870, "mm": 6092.2}, "curved": {"n": 750, "mm": 971.1}},
+  "text": {"rings": 107, "straight": {"n": 674, "mm": 542.3}, "curved": {"n": 195, "mm": 230.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 4429, "straight": {"n": 5094, "mm": 3780.5}, "curved": {"n": 42, "mm": 32.0}},
+   "text": {"paths": 885, "straight": {"n": 1060, "mm": 443.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 81,
+  "orientation": {"horizontal": {"n": 1590, "mm": 1594.4}, "vertical": {"n": 1682, "mm": 1108.8}, "diagonal": {"n": 2882, "mm": 1521.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [376.4, 29.8], "r": 1.1, "kind": "arc", "span": 158, "from": ["centre line"], "start": 180},
+  {"c": [150.2, 53.7], "r": 1.1, "kind": "arc", "span": 153, "from": ["centre line"], "start": 199},
+  {"c": [406.4, 23.0], "r": 0.8, "kind": "arc", "span": 150, "from": ["centre line"], "start": 263},
+  {"c": [232.7, 57.6], "r": 0.8, "kind": "arc", "span": 207, "from": ["centre line"], "start": 328},
+  {"c": [139.4, 56.7], "r": 0.8, "kind": "arc", "span": 240, "from": ["centre line"], "start": 276},
+  {"c": [271.1, 56.9], "r": 0.8, "kind": "arc", "span": 258, "from": ["centre line"], "start": 296},
+  {"c": [398.6, 17.0], "r": 0.8, "kind": "arc", "span": 169, "from": ["centre line"], "start": 93},
+  {"c": [405.2, 16.8], "r": 0.7, "kind": "arc", "span": 259, "from": ["centre line"], "start": 172},
+  {"c": [102.4, 108.8], "r": 0.7, "kind": "arc", "span": 186, "from": ["centre line"], "start": 93},
+  {"c": [403.7, 23.1], "r": 0.7, "kind": "arc", "span": 213, "from": ["centre line"], "start": 345},
+  {"c": [233.3, 42.6], "r": 0.7, "kind": "arc", "span": 178, "from": ["centre line"], "start": 260},
+  {"c": [109.7, 57.4], "r": 0.7, "kind": "arc", "span": 210, "from": ["centre line"], "start": 316},
+  {"c": [393.4, 23.2], "r": 0.6, "kind": "arc", "span": 170, "from": ["centre line"], "start": 355}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [118.7, 111.2, 124.8, 113.3], "text": "KVCIC"},
+   {"mm": [273.8, 106.9, 279.6, 109.0], "text": "Richt"},
+   {"mm": [112.1, 79.2, 136.2, 83.1], "text": "M808 CARD (LEFT)"},
+   {"mm": [272.2, 74.7, 298.2, 78.5], "text": "M8o8 CARD (RICHT)"},
+   {"mm": [355.8, 74.5, 361.6, 76.6], "text": "4uc ^"},
+   {"mm": [190.4, 65.8, 196.5, 68.0], "text": "RichT"},
+   {"mm": [286.5, 58.9, 303.8, 61.1], "text": "VFT Muob CaRD"},
+   {"mm": [166.0, 53.8, 174.0, 56.9], "text": "cako"},
+   {"mm": [327.1, 54.0, 334.6, 56.1], "text": "CANCEL"},
+   {"mm": [217.0, 41.7, 226.7, 43.8], "text": "SPARATC"},
+   {"mm": [250.4, 40.6, 271.0, 43.2], "text": "PoKEF DISTRIEUTCN"},
+   {"mm": [395.3, 27.9, 414.7, 31.2], "text": "BECK SYSTEMS"},
+   {"mm": [386.7, 19.2, 407.2, 22.3], "text": "MoDie SCHEMATC"}
+  ]
+ },
+ "dots": [{"c": [320.2, 55.3], "r": 0.7, "lines": 3}],
+ "nets": {
+  "groups": 30,
+  "wire_runs": 472,
+  "dotted_junctions": 2,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 517.2, "runs": 103, "ends": 47, "bbox": [67.8, 60.7, 187.6, 103.4], "labels": ["cako"]},
+   {"mm": 418.0, "runs": 81, "ends": 34, "bbox": [228.0, 63.3, 348.9, 99.1], "labels": ["VFT Muob CaRD"]},
+   {"mm": 233.5, "runs": 34, "ends": 7, "bbox": [369.0, 14.7, 416.3, 32.8], "labels": []},
+   {"mm": 100.7, "runs": 2, "ends": 2, "bbox": [230.8, 60.5, 331.4, 63.3], "labels": ["CANCEL"]},
+   {"mm": 50.5, "runs": 9, "ends": 4, "bbox": [369.6, 32.8, 416.3, 36.7], "labels": ["BECK SYSTEMS"]},
+   {"mm": 41.0, "runs": 2, "ends": 2, "bbox": [133.2, 108.4, 171.9, 112.1], "labels": []},
+   {"mm": 40.2, "runs": 1, "ends": 2, "bbox": [72.3, 112.5, 112.5, 113.6], "labels": []},
+   {"mm": 40.2, "runs": 1, "ends": 2, "bbox": [233.6, 108.2, 273.8, 109.2], "labels": ["Richt"]},
+   {"mm": 39.3, "runs": 2, "ends": 2, "bbox": [293.0, 106.7, 332.7, 107.5], "labels": []},
+   {"mm": 16.0, "runs": 1, "ends": 2, "bbox": [66.9, 74.9, 67.4, 90.9], "labels": []},
+   {"mm": 11.3, "runs": 2, "ends": 2, "bbox": [371.8, 31.5, 383.0, 32.2], "labels": []},
+   {"mm": 11.0, "runs": 2, "ends": 2, "bbox": [371.8, 28.5, 382.8, 28.9], "labels": []},
+   {"mm": 10.8, "runs": 3, "ends": 2, "bbox": [110.8, 105.6, 120.5, 106.9], "labels": []},
+   {"mm": 10.8, "runs": 3, "ends": 2, "bbox": [284.6, 100.8, 294.3, 102.1], "labels": []},
+   {"mm": 10.6, "runs": 2, "ends": 2, "bbox": [297.5, 100.4, 307.0, 101.9], "labels": []},
+   {"mm": 9.7, "runs": 1, "ends": 2, "bbox": [72.5, 107.7, 82.3, 108.0], "labels": []},
+   {"mm": 9.7, "runs": 2, "ends": 2, "bbox": [85.3, 107.3, 95.0, 107.5], "labels": []},
+   {"mm": 9.7, "runs": 2, "ends": 2, "bbox": [123.3, 106.2, 133.0, 106.4], "labels": ["KVCIC"]},
+   {"mm": 9.7, "runs": 2, "ends": 2, "bbox": [148.8, 105.6, 158.5, 105.8], "labels": []},
+   {"mm": 9.7, "runs": 2, "ends": 2, "bbox": [192.6, 74.7, 192.8, 84.4], "labels": []},
+   {"mm": 9.7, "runs": 1, "ends": 2, "bbox": [233.6, 103.2, 243.3, 103.4], "labels": []},
+   {"mm": 9.7, "runs": 1, "ends": 2, "bbox": [246.3, 103.0, 256.1, 103.2], "labels": []},
+   {"mm": 9.7, "runs": 2, "ends": 2, "bbox": [259.1, 102.6, 268.8, 102.8], "labels": []},
+   {"mm": 9.7, "runs": 2, "ends": 2, "bbox": [322.6, 100.8, 332.3, 101.0], "labels": []},
+   {"mm": 9.7, "runs": 2, "ends": 2, "bbox": [353.6, 70.4, 353.9, 80.1], "labels": ["4uc ^"]},
+   {"mm": 9.5, "runs": 2, "ends": 2, "bbox": [136.2, 106.0, 145.7, 106.2], "labels": []},
+   {"mm": 9.5, "runs": 2, "ends": 2, "bbox": [310.0, 101.3, 319.5, 101.5], "labels": []},
+   {"mm": 9.1, "runs": 1, "ends": 2, "bbox": [98.0, 107.1, 107.1, 107.3], "labels": []},
+   {"mm": 9.1, "runs": 1, "ends": 2, "bbox": [272.5, 102.1, 281.5, 102.6], "labels": ["Richt"]},
+   {"mm": 7.8, "runs": 1, "ends": 2, "bbox": [162.4, 105.4, 170.1, 105.6], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic LB 808-02-003, size B (assumed) 432 × 140 mm, 2000 × 648 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–417 mm across, 14–137 mm up",
+  "- **Outlines:** line 464 rings, 3,870 straight (6,092 mm) / 750 curved (971 mm); text 107 rings, 674 straight (542 mm) / 195 curved (231 mm)",
+  "- **Centre lines:** 5,314 paths (81 closed); straight 4,224 mm, curved 32.0 mm; horizontal 1,594 mm, vertical 1,109 mm, diagonal 1,521 mm",
+  "- **Circles and arcs:** 0 circles, 13 arcs",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 14 in 13 lines: KVCIC · Richt · M808 CARD (LEFT) · M8o8 CARD (RICHT) · 4uc ^ · RichT · VFT Muob CaRD · cako · CANCEL · SPARATC · PoKEF DISTRIEUTCN · BECK SYSTEMS",
+  "- **Wiring (first pass):** 30 connected wire groups from 472 runs, 2 dotted junctions; labelled ends: 517 mm → cako; 418 mm → VFT Muob CaRD; 101 mm → CANCEL; 50 mm → BECK SYSTEMS; 40 mm → Richt"
+ ]
+}

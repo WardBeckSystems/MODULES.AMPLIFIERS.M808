@@ -1,0 +1,90 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M808/SCHEMATICS/1978 - 808-02-002 - M808A 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (2).jpg",
+ "version": 1,
+ "trace": "_traces/6d4ca352effa3d49.svg",
+ "sheet": {
+  "number": "LB 808-02-002",
+  "title": "M808A / 8x1 RELAY SWITCHER CARD / SCHEMATIC",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 180,
+  "px": [2000, 1494],
+  "mm": [431.8, 322.6],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 20.5, 399.4, 286.6],
+ "outlines": {
+  "line": {"rings": 448, "straight": {"n": 6648, "mm": 8651.2}, "curved": {"n": 890, "mm": 983.3}},
+  "text": {"rings": 191, "straight": {"n": 2843, "mm": 3922.2}, "curved": {"n": 610, "mm": 1154.1}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 13779, "straight": {"n": 14036, "mm": 7334.5}, "curved": {"n": 17, "mm": 37.8}},
+   "text": {"paths": 6257, "straight": {"n": 6994, "mm": 4272.5}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 96,
+  "orientation": {"horizontal": {"n": 5359, "mm": 4222.2}, "vertical": {"n": 5461, "mm": 2370.9}, "diagonal": {"n": 10210, "mm": 5013.9}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [243.6, 111.3], "r": 4.4, "kind": "arc", "span": 245, "from": ["centre line"], "start": 302},
+  {"c": [313.8, 111.9], "r": 4.4, "kind": "arc", "span": 251, "from": ["centre line"], "start": 305}
+ ],
+ "boxes": [
+  {"mm": [138.2, 229.5, 172.3, 247.2], "w": 34.1, "h": 17.6, "from": "ring"},
+  {"mm": [173.6, 229.5, 207.0, 246.8], "w": 33.5, "h": 17.3, "from": "ring"},
+  {"mm": [138.4, 212.2, 172.5, 228.5], "w": 34.1, "h": 16.2, "from": "ring"},
+  {"mm": [173.8, 212.4, 207.0, 228.3], "w": 33.2, "h": 15.8, "from": "ring"},
+  {"mm": [49.9, 145.9, 137.7, 163.0], "w": 87.9, "h": 17.0, "from": "ring"},
+  {"mm": [49.7, 128.0, 137.7, 145.5], "w": 88.1, "h": 17.5, "from": "ring"},
+  {"mm": [49.7, 110.3, 138.0, 127.6], "w": 88.4, "h": 17.3, "from": "ring"},
+  {"mm": [49.4, 92.6, 138.0, 110.5], "w": 88.5, "h": 17.9, "from": "ring"},
+  {"mm": [174.0, 60.5, 343.5, 95.9], "w": 169.5, "h": 35.4, "from": "ring"},
+  {"mm": [49.5, 57.4, 138.2, 92.8], "w": 88.7, "h": 35.4, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "nets": {
+  "groups": 23,
+  "wire_runs": 284,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 1782.6, "runs": 40, "ends": 10, "bbox": [48.4, 58.5, 376.7, 247.2], "labels": []},
+   {"mm": 464.0, "runs": 15, "ends": 3, "bbox": [138.0, 210.3, 375.5, 247.9], "labels": []},
+   {"mm": 141.0, "runs": 4, "ends": 3, "bbox": [1.1, 55.7, 137.1, 62.0], "labels": []},
+   {"mm": 71.9, "runs": 3, "ends": 2, "bbox": [74.5, 171.4, 146.4, 172.7], "labels": []},
+   {"mm": 71.8, "runs": 3, "ends": 2, "bbox": [70.8, 201.0, 142.5, 202.9], "labels": []},
+   {"mm": 71.5, "runs": 2, "ends": 2, "bbox": [0.9, 20.7, 72.8, 21.6], "labels": []},
+   {"mm": 61.3, "runs": 1, "ends": 2, "bbox": [296.9, 20.7, 358.2, 21.2], "labels": []},
+   {"mm": 26.3, "runs": 9, "ends": 5, "bbox": [346.7, 228.6, 371.3, 231.0], "labels": []},
+   {"mm": 22.0, "runs": 5, "ends": 4, "bbox": [250.4, 106.7, 256.1, 115.5], "labels": []},
+   {"mm": 19.9, "runs": 4, "ends": 3, "bbox": [63.3, 181.8, 66.7, 195.6], "labels": []},
+   {"mm": 19.6, "runs": 10, "ends": 6, "bbox": [333.3, 210.5, 348.5, 213.5], "labels": []},
+   {"mm": 15.3, "runs": 1, "ends": 2, "bbox": [370.7, 33.5, 386.0, 33.5], "labels": []},
+   {"mm": 13.8, "runs": 5, "ends": 2, "bbox": [379.8, 246.1, 394.0, 247.4], "labels": []},
+   {"mm": 12.5, "runs": 6, "ends": 4, "bbox": [379.1, 209.0, 384.3, 212.7], "labels": []},
+   {"mm": 11.9, "runs": 3, "ends": 2, "bbox": [338.3, 165.2, 348.7, 166.5], "labels": []},
+   {"mm": 11.7, "runs": 4, "ends": 3, "bbox": [167.8, 180.1, 171.2, 185.9], "labels": []},
+   {"mm": 11.2, "runs": 2, "ends": 2, "bbox": [167.3, 187.0, 171.2, 195.2], "labels": []},
+   {"mm": 11.0, "runs": 3, "ends": 3, "bbox": [260.8, 107.3, 264.7, 115.1], "labels": []},
+   {"mm": 10.4, "runs": 2, "ends": 2, "bbox": [294.7, 107.3, 297.3, 115.7], "labels": []},
+   {"mm": 8.0, "runs": 1, "ends": 2, "bbox": [304.0, 107.5, 304.2, 115.5], "labels": []},
+   {"mm": 6.7, "runs": 5, "ends": 3, "bbox": [377.0, 238.4, 378.3, 245.3], "labels": []},
+   {"mm": 6.3, "runs": 5, "ends": 2, "bbox": [358.2, 211.2, 364.0, 213.7], "labels": []},
+   {"mm": 5.4, "runs": 5, "ends": 3, "bbox": [349.5, 165.4, 354.1, 166.5], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic LB 808-02-002, size B (assumed) 432 × 323 mm, 2000 × 1494 px traced (0.216 mm/px), turned 180°",
+  "- **Ink extent:** 0–399 mm across, 20–287 mm up",
+  "- **Outlines:** line 448 rings, 6,648 straight (8,651 mm) / 890 curved (983 mm); text 191 rings, 2,843 straight (3,922 mm) / 610 curved (1,154 mm)",
+  "- **Centre lines:** 20,036 paths (96 closed); straight 11,607 mm, curved 37.8 mm; horizontal 4,222 mm, vertical 2,371 mm, diagonal 5,014 mm",
+  "- **Circles and arcs:** 0 circles, 2 arcs",
+  "- **Closed boxes:** 10",
+  "- **Wiring (first pass):** 23 connected wire groups from 284 runs"
+ ]
+}
