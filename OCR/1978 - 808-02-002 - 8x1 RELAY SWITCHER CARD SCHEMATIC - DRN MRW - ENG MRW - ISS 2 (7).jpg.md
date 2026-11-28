@@ -1,5 +1,5 @@
 # 1978 - 808-02-002 - 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (7).jpg
-Wiki page: [M808](../../../../PAGES/M808.md)
+Wiki page: [M808](../)
 
 
 - **Year:** 1978 (title block date)

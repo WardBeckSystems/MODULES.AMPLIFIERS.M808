@@ -1,5 +1,5 @@
 # 19xx - 808-02-003 - M808B 8x1 STEREO SWITCHER MODULE SCHEMATIC - ISS 1.jpg
-Wiki page: [M808](../../../../PAGES/M808.md)
+Wiki page: [M808](../)
 
 
 - **Year:** unknown (title block (read by eye))

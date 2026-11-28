@@ -1,5 +1,5 @@
 # 1994 - M808 - RELAY SWITCHER MOPLLE SCHEMATIC.jpg
-Wiki page: [M808](../../../../PAGES/M808.md)
+Wiki page: [M808](../)
 
 
 - **Year:** 1994 (module estimate (family))

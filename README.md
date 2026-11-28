@@ -1,6 +1,6 @@
 # M808 8x1 Relay Switcher · Amplifiers
 
-Ward-Beck Systems M808, 1978|11. Wiki page: [M808 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M808.html)
+Ward-Beck Systems M808, 1978|11. Wiki page: [M808 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M808-8x1-Relay-Switcher/)
 
 | Folder | What is in it | Files |
 |---|---|---|
